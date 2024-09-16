@@ -1,19 +1,21 @@
 # My-Project-12
-Employee Tracker
+
+
+                                        Employee Tracker
 
 Description
 
-The Employee Tracker is a command-line application built with Node.js and PostgreSQL. It allows users to manage a company’s employee database, including departments, roles, and employees. The application enables viewing, adding, and updating employees and their respective roles within the company. It offers a streamlined solution to organize and manage employee data for any business.
+    The Employee Tracker is a command-line application built with Node.js and PostgreSQL. It allows users to manage a company’s employee database, including departments, roles, and employees. The application enables viewing, adding, and updating employees and their respective roles within the company. It offers a streamlined solution to organize and manage employee data for any business.
 
-Table of Contents
+            Table of Contents
 
-	•	Installation
-	•	Usage
-	•	Features
-	•	Technologies Used
-	•	License
-	•	Contributing
-	•	Questions
+	        •	Installation
+	        •	Usage
+	        •	Features
+	        •	Technologies Used
+	        •	License
+	        •	Contributing
+	        •	Questions
 
 Installation
 
@@ -34,7 +36,6 @@ Installation
                 psql -U postgres -d employee_tracker -f db/schema.sql
                 psql -U postgres -d employee_tracker -f db/seed.sql
 
-
 Usage
 
     1.	Run the application:
@@ -51,7 +52,6 @@ Usage
 
 
 	3.	Follow the on-screen prompts to manage the employee database as needed.
-
 
 Features
 
@@ -73,7 +73,6 @@ License
 
     This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
 Contributing
 
     Contributions are welcome! Please follow these steps to contribute:
@@ -89,7 +88,6 @@ Contributing
               git push origin your-feature-branch
 
         5. Submit a pull request.
-
 
 Questions
 
