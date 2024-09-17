@@ -55,6 +55,7 @@ Usage
 	3.	Follow the on-screen prompts to manage the employee database as needed.
 
 	4. Please see attached link for a how to video showing you how to run and use the application.
+		
 		•	https://youtu.be/NXvTdzD7Yls?si=bNIoYVVBzg4VH3PK
 		
 			![Screenshot from YouTube Video](./images/HowToVideo.jpg)
